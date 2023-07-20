@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermemviana&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermemviana" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React, Typescript and Styled-components**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
