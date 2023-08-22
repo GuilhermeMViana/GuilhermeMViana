@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme VIana</h1>
-<h3 align="center">A frontend developer from Brasil</h3>
+<h3 align="center">A FullStack developer from Brasil</h3>
 
 - 🌱 I’m currently learning **Go, React, Typescript and Styled-components**
 
