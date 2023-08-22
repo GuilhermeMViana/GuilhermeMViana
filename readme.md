@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme VIana</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **React, Typescript and Styled-components**
+- 🌱 I’m currently learning **Go, React, Typescript and Styled-components**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
