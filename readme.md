@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Software Developer from Brazil<br><br>- 🔭 I’m working as Front-End Developer<br>- 📚 I'm currently learning NextJs, Swift, SwiftUI, UIKit<br>- ⚡ In my free time I like to learn about new tech stuff and programming languages</p>
+<p align="left">I'm Software Developer from Brazil<br><br>- 🔭 I’m working as Front-End Developer<br>- 📚 I'm currently learnin SwiftUI<br>- ⚡ In my free time I like to learn about new tech stuff and playing video games</p>
 
 ###
 
